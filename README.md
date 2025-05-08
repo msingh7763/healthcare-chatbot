@@ -68,5 +68,4 @@ Many individuals face delays in consulting healthcare professionals due to lack 
 
 ---
 
-## 📷 Sample Output
 
